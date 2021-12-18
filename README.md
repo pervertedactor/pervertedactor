@@ -1,4 +1,4 @@
-Colorist and an animal.
+I'm a colorist and an animal.
 
 <!---
 pervertedactor/pervertedactor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
